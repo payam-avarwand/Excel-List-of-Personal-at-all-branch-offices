@@ -1,4 +1,4 @@
-This Script will create an Excel-List of all accounts of all Personal in all our branch offices,
+This Script creates an Excel-List of all enable accounts of Personal in all our branch offices,
 with 5 parameters per record:
 1-First Name
 2-Last Name
