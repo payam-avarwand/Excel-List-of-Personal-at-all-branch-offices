@@ -121,3 +121,7 @@ Send-MailMessage -To $To -Subject $Subject -Body $body -SmtpServer $SMTP_Server 
 
 Start-Sleep -Seconds 5
 Remove-Item -Path $Temp_File
+
+
+# Created_by Payam.Avarwand
+# Payam_avar@yahoo.com
