@@ -13,7 +13,7 @@ $excel_Obj.visible = $false
 $workbook = $excel_Obj.Workbooks.Add()
 $Sheet= $workbook.Worksheets.Item(1)
 
-$D = Get-Date -Format 'dd-MM-yyyy'
+$D = Get-Date -Format 'dd-MM-yyyy' 
 $Sheet.Name = "Branch-List-$D"
 
 ############################################################
